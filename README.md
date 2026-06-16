@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gilbert Kiprono
 
-<!--
-**MatrossGill/MatrossGill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm a Bachelor of Economics graduate from The University of Nairobi.
+- I'm interested in web development and programming.
+- I'm looking to collaborate on beginner-friendly open source projects to make it easier for me to learn.
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- HTML/CSS,Python, JavaScript and Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Project HTML/CSS Acclimatize(link) — Adapting to the Coding environment and having the HTML/CSS Elements and Tags on my fingertips.
+ 
+## How to Reach Me
+- Email: kipronogilbert922@gmail.com
+- Instagram: @gillsaintmartin
+- X: @gillsaintmartin
+- LinkedIn: gilbertkiprono
