@@ -1,23 +1,24 @@
-**#GILBERT KIPRONO#**
+#GILBERT KIPRONO#
 
-**##My Learning Goals##**
+##My Learning Goals##
 
-**###This Semester###**
+###This Semester###
 
 - Learn Git and Github
 - Learn HTML/CSS and JavaScript 
 - Complete Project Acclimatize HTML/CSS AND JavaScript Elements and Tags.
 
-**###Other Learning Goals###**
+###Other Learning Goals###
+
 By the end of this semester, I need to be able to use GitHub **PROFICIENTLY**, have knowledge of other programming languages (*Python*, *TypeScript*, *C++* and *Rust*) and practice using `git commit` effectively.
 
-**###Links###**
+###Links###
 
 1. [My GitHub Profile](https://github.com/matrossgill)
 2. [Livesite link](https://matrossgill.github.io/)
 3. [My Email](kipronogilbert922@gmail.com)
 
-**###Tools###**
+###Tools###
 
 | Tool   | Purpose                                                                          | Link   |
 | ------ | -------------------------------------------------------------------------------- | ------ |
@@ -25,7 +26,7 @@ By the end of this semester, I need to be able to use GitHub **PROFICIENTLY**, h
 | HTML   | Create, structure, and format the content of web pages                           | HTML   |
 | CSS    | Control the visual presentation, layout, and design of web pages written in HTML | CSS    |
 
-**###Task list###**
+###Task list###
 
 - [x] Git and GitHub
 - [x] HTML elements and tags
@@ -33,6 +34,7 @@ By the end of this semester, I need to be able to use GitHub **PROFICIENTLY**, h
 - [ ] JavaScript
 
 ###Code Block###
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -51,10 +53,13 @@ By the end of this semester, I need to be able to use GitHub **PROFICIENTLY**, h
 My name is **Gilbert Kiprono**, a *Bachelor of Economics* graduate from **The University of Nairobi**. I'm Interested in Computer Programming and I want JavaScript to be my area of specialization.
 
 My Learning Objectives Include:
+
 - ~~Learn Git and Github~~
 - ~~Learn HTML/CSS~~
 - Complete Project Acclimatize HTML/CSS AND JavaScript Elements and Tags.
 - Learn JavaScript.
+
 **Socials**
+
   [Instagram](https://www.instagram.com/gillsaintmartin)
   [X](https://x.com/GillSaintMartin)
